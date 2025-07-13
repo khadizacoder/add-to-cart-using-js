@@ -8,7 +8,7 @@ This is a responsive and interactive **Add To Cart** product detail page, built 
 
 ## 📸 Preview
 
-![Add To Cart Screenshot](images/Capture.PNG)
+![Add To Cart Screenshot](images/screenshot.PNG)
 
 ---
 
